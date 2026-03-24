@@ -1,4 +1,6 @@
 aiohttp
 aiogram
-RIZER
 protobuf
+psutil
+rich
+colorama
