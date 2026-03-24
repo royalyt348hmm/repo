@@ -4,3 +4,16 @@ protobuf
 psutil
 rich
 colorama
+python-telegram-bot
+requests
+httpx
+google
+protobuf
+pycryptodome
+psutil
+PyJWT
+urllib3
+protobuf-decoder
+pytz
+aiohttp
+cfonts
